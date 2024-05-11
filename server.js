@@ -22,4 +22,4 @@ wss.on('connection', function connection(ws) {
     });
 });
 
-console.log(`WebSocket server started on ws://localhost:8080`);
+console.log(`WebSocket server started on wss://web-socket-serveur.onrender.com:8080`);
